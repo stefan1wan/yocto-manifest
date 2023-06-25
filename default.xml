@@ -6,14 +6,14 @@
 
   <remote name="yocto" fetch="git://git.yoctoproject.org" />
   <remote name="oe" fetch="git://git.openembedded.org" />
-  <remote name="gumstix" fetch="git://github.com/gumstix" />
-  <remote name="qt5" fetch="git://github.com/meta-qt5" />
+  <remote name="gumstix" fetch="https://github.com/gumstix" />
+  <remote name="qt5" fetch="https://github.com/meta-qt5" />
   <remote name="qt5-mirror" fetch="https://code.qt.io/cgit/yocto" />
-  <remote name="qt5-extra" fetch="git://github.com/schnitzeltony" />
-  <remote name="tegra" fetch="git://github.com/madisongh" />
-  <remote name="ossytems" fetch="git://github.com/OSSystems" />
-  <remote name="clang" fetch="git://github.com/kraj" />
-  <remote name="ros" fetch="git://github.com/ros" />
+  <remote name="qt5-extra" fetch="https://github.com/schnitzeltony" />
+  <remote name="tegra" fetch="https://github.com/madisongh" />
+  <remote name="ossytems" fetch="https://github.com/OSSystems" />
+  <remote name="clang" fetch="https://github.com/kraj" />
+  <remote name="ros" fetch="https://github.com/ros" />
 
   <!-- List all the repositories you want to fetch -->
   <!-- "name": git repository's name on hosting server
