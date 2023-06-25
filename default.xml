@@ -3,16 +3,16 @@
   <default remote="gumstix" revision="default"/>
 
   <!-- You can have as many remote repositories as you like -->
-  <remote name="gumstix" fetch="git://github.com/gumstix" />
+  <remote name="gumstix" fetch="https://github.com/gumstix" />
   <remote name="yocto" fetch="git://git.yoctoproject.org" />
   <remote name="oe" fetch="git://git.openembedded.org" />
-  <remote name="bmwcarit" fetch="git://github.com/bmwcarit" />
-  <remote name="qt5" fetch="git://github.com/meta-qt5" />
-  <remote name="OSS" fetch="git://github.com/OSSystems" />
-  <remote name="golang" fetch="git://github.com/mem" />
-  <remote name="toradex" fetch="http://git.toradex.com" />
-  <remote name="freescale" fetch="git://github.com/Freescale" />
-  <remote name="ndechesne" fetch="git://github.com/ndechesne" />
+  <remote name="bmwcarit" fetch="https://github.com/bmwcarit" />
+  <remote name="qt5" fetch="https://github.com/meta-qt5" />
+  <remote name="OSS" fetch="https://github.com/OSSystems" />
+  <remote name="golang" fetch="https://github.com/mem" />
+  <remote name="toradex" fetch="https://git.toradex.com" />
+  <remote name="freescale" fetch="https://github.com/Freescale" />
+  <remote name="ndechesne" fetch="https://github.com/ndechesne" />
   <!-- List all the repositories you want to fetch -->
   <!-- "name": git repository's name on hosting server
        "remote": the remote host from above (if not the default)
